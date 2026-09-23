@@ -49,8 +49,3 @@ Machine Learning · AI · Computer Vision · FinTech · Golf · Tennis · Squash
 
 📧 shaoyiqi@brandeis.edu  
 🌐 [yiqishao.com](https://yiqishao.com)
-
-## GitHub Languages
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshao17&layout=compact&cache_seconds=86400)
