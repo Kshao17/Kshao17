@@ -52,4 +52,5 @@ Machine Learning · AI · Computer Vision · FinTech · Golf · Tennis · Squash
 
 ## GitHub Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshao17&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshao17&layout=compact&cache_seconds=86400)
