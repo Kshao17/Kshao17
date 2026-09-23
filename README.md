@@ -1,35 +1,51 @@
-## Hi there 👋
+# Hi, I'm Kenneth Shao 👋
 
-# Hi there, my name is Kenneth Shao, you can call me Ken too! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm a Mathematics and Computer Science student at Brandeis University with interests in machine learning, multimodal AI, software engineering, and data-driven systems.
 
+I enjoy building practical technical projects that combine algorithms, data, and real-world applications.
 
+## About Me
 
+- 🎓 Mathematics & Computer Science at Brandeis University
+- 🤖 Interested in Machine Learning, Multimodal AI, Computer Vision, and Software Engineering
+- 💻 Experience with Python, Java, JavaScript, R, JAX, PyTorch, SQL, Git, and Tableau
+- 📊 Background in both software development and financial technology
+- 📍 Waltham, Massachusetts
 
-- 🌱 I am currently pursuing my Bachelor’s degree in Mathematics and Computer Science at Brandeis University
-- 😄 Actively seeking internship for Summer 2025
-- 📫 Contact me via shaoyiqi17@gmail.com
-<br>
+## Featured Project
 
- 
+### LLaVA SFT Training Strategy Optimization
 
+Explored supervised fine-tuning strategies for multimodal models, including:
 
-# Languages & Techologies<br>
+- Curriculum Learning
+- Dynamic Loss Re-weighting
+- Influence-guided / Gradient-based Reweighting
+- Multi-stage SFT
 
+The project compares different training strategies to study convergence behavior, optimization stability, and validation performance.
 
-![JavaScipt](https://img.shields.io/badge/JavaScript-blue)
-![HTML](https://img.shields.io/badge/html-yellow)
-![Css](https://img.shields.io/badge/Css-green)
-![Vue.js](https://img.shields.io/badge/Vue.js-pink)
-![Python](https://img.shields.io/badge/Python-purple)
-![C](https://img.shields.io/badge/C-orange)
-![Java](https://img.shields.io/badge/Java-gray)
-![SQL](https://img.shields.io/badge/SQL-black)
-![R](https://img.shields.io/badge/R-silver)
-![Git](https://img.shields.io/badge/Git-gold)
-![Sas](https://img.shields.io/badge/Sas-rose)
+👉 [View Project](https://github.com/Kshao17/llava-sft-training-strategy)
 
+## Tech Stack
 
+**Programming Languages**
 
-<br/>  
+Python · Java · JavaScript · R · SQL
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhongzhu0217&theme=dark&layout=compact&cache_seconds=30)
+**Machine Learning**
+
+JAX · Flax · PyTorch · CLIP · Llama · LoRA · Supervised Fine-Tuning
+
+**Tools**
+
+Git · GitHub · Tableau · SAP · Selenium
+
+## Interests
+
+Machine Learning · AI · Computer Vision · FinTech · Golf · Tennis · Squash
+
+## Contact
+
+📧 shaoyiqi@brandeis.edu  
+🌐 [yiqishao.com](https://yiqishao.com)
