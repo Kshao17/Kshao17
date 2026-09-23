@@ -6,11 +6,11 @@ I enjoy building practical technical projects that combine algorithms, data, and
 
 ## About Me
 
-- 🎓 Mathematics & Computer Science at Brandeis University
-- 🤖 Interested in Machine Learning, Multimodal AI, Computer Vision, and Software Engineering
-- 💻 Experience with Python, Java, JavaScript, R, JAX, PyTorch, SQL, Git, and Tableau
-- 📊 Background in both software development and financial technology
-- 📍 Waltham, Massachusetts
+-  Mathematics & Computer Science at Brandeis University
+-  Interested in Machine Learning, Multimodal AI, Computer Vision, and Software Engineering
+-  Experience with Python, Java, JavaScript, R, JAX, PyTorch, SQL, Git, and Tableau
+-  Background in both software development and financial technology
+-  Waltham, Massachusetts
 
 ## Featured Project
 
